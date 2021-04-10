@@ -3,4 +3,4 @@ Inside the terminal, type `./switchsshkey.bash` then choose the ssh key you want
 
 **Before that, make sure the execute permission is given.**
 
-No permission? Don't worry, do this `chmod o+x`.
+No permission? Don't worry, do this `chmod +x switchsshkey.bash`.
