@@ -13,6 +13,6 @@ switchSSHkey(){
 ls -l "$HOME/.ssh/"
 
 echo "Activate SSH key (filename): "
-read path
+read sshpath
 
-switchSSHkey $path
+switchSSHkey $sshpath
